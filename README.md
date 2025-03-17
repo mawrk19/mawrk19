@@ -16,7 +16,9 @@ Hi there! I'm a passionate **Frontend Engineer** with full-stack experience in n
 ## ✨ Cool Projects
 
 - 🌟 **Sage AI**: A fantasy-themed budgeting app with AI-driven story generation.
-- 💡 **Tech Carousel**: An interactive carousel to showcase tech stack.
+- ☕ **Kopilism App**: An inventory-ordering system for the famous kopilism coffee shop.
+- 🤑 **Budgee**: A budgeting app but with a twist.
+- 🧑‍🎓 **Student Information System**: boost student experiences, increase administrative effectiveness, and offer insightful data on how well the institution is performing.
 
 ## 🌐 Connect with Me
 
