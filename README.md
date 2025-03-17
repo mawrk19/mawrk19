@@ -1,5 +1,7 @@
-# 💻 Welcome to My GitHub Profile!
 ![Total Contributions](https://komarev.com/ghpvc/?username=mawrk19&color=green)
+
+# 💻 Welcome to My GitHub Profile!
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Frontend+Engineer+%7C+Full-Stack+Native+App+Developer;Passionate+Coder+%7C+Tech+Enthusiast;Flutter+%7C+Java+%7C+NC+III+Certified+by+TESDA)
 
 ## 👋 About Me
