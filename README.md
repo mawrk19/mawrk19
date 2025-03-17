@@ -31,6 +31,12 @@ Hi there! I'm a passionate **Frontend Engineer** with full-stack experience in n
 
 ![Gercee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawrk19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawrk19&layout=compact&theme=radical)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mawrk19&theme=radical)
+
+![Total Contributions](https://komarev.com/ghpvc/?username=mawrk19&color=green)
+
+![Gercee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mawrk19&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawrk19&layout=compact&theme=radical)
 
 ## ✨ Fun Facts
 
