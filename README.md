@@ -1,5 +1,5 @@
 # 💻 Welcome to My GitHub Profile!
-
+![Total Contributions](https://komarev.com/ghpvc/?username=mawrk19&color=green)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Frontend+Engineer+%7C+Full-Stack+Native+App+Developer;Passionate+Coder+%7C+Tech+Enthusiast;Flutter+%7C+Java+%7C+NC+III+Certified+by+TESDA)
 
 ## 👋 About Me
@@ -34,7 +34,7 @@ Hi there! I'm a passionate **Frontend Engineer** with full-stack experience in n
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mawrk19&layout=compact&theme=radical)
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mawrk19&theme=radical)
-![Total Contributions](https://komarev.com/ghpvc/?username=mawrk19&color=green)
+
 
 
 ## ✨ Fun Facts
